@@ -33,8 +33,6 @@ There is no installation required for this project. It is a static web page, and
 
 👤 **Abdullah Maqbool**
 
-- LinkedIn: [@abdullah-maqbool](https://www.linkedin.com/in/abdullah-maqbool-8b469a25b/)
-
 ## License
 
 This project is licensed under the ownership of Abdullah Maqbool.
